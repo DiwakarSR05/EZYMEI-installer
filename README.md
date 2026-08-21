@@ -2,6 +2,10 @@
 
 Public download host for the EZYMEI shop POS. **Application source is not in this repository.**
 
+## Overview
+
+EZYMEI is a modern Point-of-Sale (POS) system designed for small to medium-sized retail shops. This repository serves as the official distribution hub for the Windows installer, enabling shop owners and staff to quickly deploy the application on their systems. The EZYMEI POS solution provides comprehensive billing, inventory management, and offline-capable operations to streamline retail workflows.
+
 ## Download
 
 Latest installer: [Releases](https://github.com/DiwakarSR05/EZYMEI-installer/releases/latest)
