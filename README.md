@@ -4,15 +4,19 @@ Public download host for the EZYMEI shop POS. **Application source is not in thi
 
 ## Overview
 
-EZYMEI is a modern Point-of-Sale (POS) system designed for small to medium-sized retail shops. This repository serves as the official distribution hub for the Windows installer, enabling shop owners and staff to quickly deploy the application on their systems. The EZYMEI POS solution provides comprehensive billing, inventory management, and offline-capable operations to streamline retail workflows.
+EZYMEI is a Point of Sale system for small and medium retail shops. This repository is the official Windows installer hub so owners and staff can install the app without cloning source code. After activation, billing and stock work offline on that PC.
 
 ## Download
 
-Latest installer: [Releases](https://github.com/DiwakarSR05/EZYMEI-installer/releases/latest)
+**Current version: 2.0.1** (Windows x64)
 
-File: **EZYMEI-Setup-1.0.0.exe** (Windows x64)
+- Latest release: [https://github.com/DiwakarSR05/EZYMEI-installer/releases/latest](https://github.com/DiwakarSR05/EZYMEI-installer/releases/latest)
+- Direct file: [EZYMEI-Setup-2.0.1.exe](https://github.com/DiwakarSR05/EZYMEI-installer/releases/download/v2.0.1/EZYMEI-Setup-2.0.1.exe)
 
-Product site: [https://ezymei-pos.up.railway.app/](https://ezymei-pos.up.railway.app/)
+Product site: [https://ezymei-pos.up.railway.app/](https://ezymei-pos.up.railway.app/)  
+Licenses and admin dashboard: [https://ezymei-pos.up.railway.app/ezemei_dashboard](https://ezymei-pos.up.railway.app/ezemei_dashboard)
+
+A later installer on the same PC upgrades in place and keeps shop data.
 
 ## Install notes
 
@@ -23,3 +27,10 @@ This build is **unsigned**. Edge or Windows SmartScreen may warn that the file i
 3. First launch: **Activate** with a license from the shop owner.
 
 After activation, billing and stock work offline on this PC.
+
+## Version history
+
+| Version | File |
+|---|---|
+| 2.0.1 (current) | [EZYMEI-Setup-2.0.1.exe](https://github.com/DiwakarSR05/EZYMEI-installer/releases/download/v2.0.1/EZYMEI-Setup-2.0.1.exe) |
+| 1.0.0 | [EZYMEI-Setup-1.0.0.exe](https://github.com/DiwakarSR05/EZYMEI-installer/releases/download/v1.0.0/EZYMEI-Setup-1.0.0.exe) |
