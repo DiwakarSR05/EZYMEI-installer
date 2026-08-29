@@ -8,10 +8,10 @@ EZYMEI is a Point of Sale system for small and medium retail shops. This reposit
 
 ## Download
 
-**Current version: 2.0.1** (Windows x64)
+**Current version: 2.1.0** (Windows x64)
 
 - Latest release: [https://github.com/DiwakarSR05/EZYMEI-installer/releases/latest](https://github.com/DiwakarSR05/EZYMEI-installer/releases/latest)
-- Direct file: [EZYMEI-Setup-2.0.1.exe](https://github.com/DiwakarSR05/EZYMEI-installer/releases/download/v2.0.1/EZYMEI-Setup-2.0.1.exe)
+- Direct file: [EZYMEI-Setup-2.1.0.exe](https://github.com/DiwakarSR05/EZYMEI-installer/releases/download/v2.1.0/EZYMEI-Setup-2.1.0.exe)
 
 Product site: [https://ezymei-pos.up.railway.app/](https://ezymei-pos.up.railway.app/)  
 Licenses and admin dashboard: [https://ezymei-pos.up.railway.app/ezemei_dashboard](https://ezymei-pos.up.railway.app/ezemei_dashboard)
@@ -23,7 +23,7 @@ A later installer on the same PC upgrades in place and keeps shop data.
 This build is **unsigned**. Edge or Windows SmartScreen may warn that the file is uncommon.
 
 1. Choose **Keep** / **Keep anyway** in the browser.
-2. If **Windows protected your PC** appears: **More info** → **Run anyway**.
+2. If **Windows protected your PC** appears: **More info** then **Run anyway**.
 3. First launch: **Activate** with a license from the shop owner.
 
 After activation, billing and stock work offline on this PC.
@@ -32,5 +32,6 @@ After activation, billing and stock work offline on this PC.
 
 | Version | File |
 |---|---|
-| 2.0.1 (current) | [EZYMEI-Setup-2.0.1.exe](https://github.com/DiwakarSR05/EZYMEI-installer/releases/download/v2.0.1/EZYMEI-Setup-2.0.1.exe) |
+| 2.1.0 (current) | [EZYMEI-Setup-2.1.0.exe](https://github.com/DiwakarSR05/EZYMEI-installer/releases/download/v2.1.0/EZYMEI-Setup-2.1.0.exe) |
+| 2.0.1 | [EZYMEI-Setup-2.0.1.exe](https://github.com/DiwakarSR05/EZYMEI-installer/releases/download/v2.0.1/EZYMEI-Setup-2.0.1.exe) |
 | 1.0.0 | [EZYMEI-Setup-1.0.0.exe](https://github.com/DiwakarSR05/EZYMEI-installer/releases/download/v1.0.0/EZYMEI-Setup-1.0.0.exe) |
