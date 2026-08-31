@@ -1,6 +1,6 @@
 # EZYMEI Windows installer
 
-Public download host for the EZYMEI shop POS. **Application source is not in this repository.**
+Public download host for the EZYMEI shop POS. 
 
 ## Overview
 
