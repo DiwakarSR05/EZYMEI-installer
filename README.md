@@ -27,6 +27,9 @@ This build is **unsigned**. Edge or Windows SmartScreen may warn that the file i
 
 After activation, billing and stock work offline on this PC.
 
+Free license activation key for business registration:
+Multi-device plan: EZM-KAKL-UFRU-UDAF
+
 ## Version history
 
 | Version | File |
