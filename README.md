@@ -14,7 +14,6 @@ EZYMEI is a Point of Sale system for small and medium retail shops. This reposit
 - Direct file: [EZYMEI-Setup-2.1.0.exe](https://github.com/DiwakarSR05/EZYMEI-installer/releases/download/v2.1.0/EZYMEI-Setup-2.1.0.exe)
 
 Product site: [https://ezymei-pos.up.railway.app/](https://ezymei-pos.up.railway.app/)  
-Licenses and admin dashboard: [https://ezymei-pos.up.railway.app/ezemei_dashboard](https://ezymei-pos.up.railway.app/ezemei_dashboard)
 
 A later installer on the same PC upgrades in place and keeps shop data.
 
