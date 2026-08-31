@@ -4,7 +4,7 @@ Public download host for the EZYMEI shop POS. **Application source is not in thi
 
 ## Overview
 
-EZYMEI is a Point of Sale system for all level retail shops. This repository is the official Windows installer hub to install the app. After activation, billing and stock work offline on that PC.
+EZYMEI is a Point of Sale system for all level retail shops. It is local-first shop POS (Electron + SQLite) with a cloud API for license activation. This repository is the official Windows installer hub to install the app. After activation, billing and stock work offline on your PC.
 
 ## Download
 
